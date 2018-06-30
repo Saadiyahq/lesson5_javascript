@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 28th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Saadiyah Qureshi 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning how to make another calculater application for tax brackets. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+hhttps://saadiyahq.github.io/lesson5_javascript/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Arrays-I learned how to declare and intialize an array. I also learned the syntax of an array. 
+2. Referencing Default Collections of Element-there is a a getelementbyTagName() method andby using this method you can reference a web page element by looking up all elements of a certain type. 
+3. Using if/else statements- it is used to execute specific programming code and conditional expression evaluation returns truthy values. 
 
